@@ -2,3 +2,4 @@
 
 an example README
 
+[My Awesome Wiki](../../wiki)
