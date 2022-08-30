@@ -2,4 +2,6 @@
 
 an example README
 
-[My Awesome Wiki](../../wiki)
+the wiki of this project was added to the repository with
+
+> git submodule add ```https://github.com/wolfderby/git_wiki_experiment.wiki```
